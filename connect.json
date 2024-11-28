@@ -1,0 +1,12 @@
+{
+  "wifi": {
+    "ssid": "your_SSID",
+    "password": "your_PASSWORD"
+  },
+  "server": {
+    "port": 80
+  },
+  "gpio": {
+    "led_pin": 2
+  }
+}
